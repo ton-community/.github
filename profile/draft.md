@@ -55,7 +55,7 @@ And of course you can add a repository to the organization. Just contact us thro
 
 ---
 
-<h2 align="center">Projects that are looking for contributors 👀</h3>
+<h3 align="center">Projects that are looking for contributors 👀</h3>
 
 - [TON Documentation](https://github.com/ton-community/ton-docs)
 
