@@ -1,5 +1,5 @@
-# TON Community 💎
-🏡 *Home for community driven projects and resources for the TON blockchain.*
+<h1 align="center">TON Community 💎</h1>
+<i align="center">🏡 Home for community driven projects and resources for the TON blockchain.</i>
 
 ---
 
