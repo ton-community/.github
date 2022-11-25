@@ -14,7 +14,7 @@ And you can became one of us! Read about how to join below.
 
 ---
 
-<img align="right" width="300" src="imgs/how.png">
+<img align="right" width="300" src="imgs/what.png">
 
 
 ## What we do? 🛠️
@@ -37,6 +37,8 @@ We are a community driven project, and need your help. If you are a developer, y
 Also, here you can get help in creating such projects, that useful for the community.
 
 ---
+
+<img align="left" width="300" src="imgs/how.png">
 
 ## How to join? 💡
 Fork the repo, make your changes, and submit a pull request. 
