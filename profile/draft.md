@@ -38,7 +38,7 @@ Also, here you can get help in creating such projects, that useful for the commu
 
 ---
 
-<img align="left" width="300" src="imgs/how.png">
+<img align="right" width="300" src="imgs/how.png">
 
 ## How to join? 💡
 Fork the repo, make your changes, and submit a pull request. 
