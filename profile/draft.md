@@ -1,5 +1,5 @@
 <h1 align="center">TON Community 💎</h1>
-<i align="center">🏡 Home for community driven projects and resources for the TON blockchain.</i>
+<div align="center"><i>🏡 Home for community driven projects and resources for the TON blockchain.</i></div>
 
 ---
 
