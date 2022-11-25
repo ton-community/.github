@@ -32,9 +32,11 @@ Also, we're taking care about other useful tools for developers such:
 <img align="left" width="300" src="imgs/why.png">
 
 ## Why you should join? 🎫
-We are a community driven project, and need your help. If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
+We are a community driven project, and need your help. 
 
-Also, here you can get help in creating such projects, that useful for the community.
+If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
+
+In addition, here you can get help in creating such projects, that useful for the community.
 
 ---
 
