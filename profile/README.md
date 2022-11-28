@@ -3,7 +3,7 @@
 
 ---
 
-<img align="left" width="300" src="imgs/what.png">
+<img align="left" width="300" src="profile/imgs/what.png">
 
 ## Who we are
 
@@ -16,7 +16,7 @@ And you can become one of us. Read about how to join below.
 
 ---
 
-<img align="right" width="300" src="imgs/why.png">
+<img align="right" width="300" src="profile/imgs/why.png">
 
 
 ## What we do
