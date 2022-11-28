@@ -69,4 +69,4 @@ __Want to get more contributors?__
 
 <h3 align="center">Projects looking for contributors:</h3>
 
-- [TON Documentation](https://github.com/ton-community/ton-docs) — knowledgebase for every thing in TON. Essential instrument of every TON Developer.
+- [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?](https://ton.org/docs/contribute)
