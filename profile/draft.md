@@ -35,13 +35,20 @@ Also, we're taking care about other useful tools for developers such:
 
 <img align="left" width="300" src="imgs/why.png">
 
-## How to join the open-source?
+## Why it's so cool to join?
 
+__For contributors__
 If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
 
-In addition, here you can get help in creating such projects, that useful for the community. If you help community - community helps you. Win-win situation.
-
 To receive compensation, you can write a [TON Footstep](https://github.com/ton-society/ton-footsteps) or find an already placed one.
+
+__For tool builders__
+
+After your project becomes a part of the TON Community, you'll receive more support from open-source contributors. 
+
+In addition, here you can get help in creating such projects, that useful for the community. If you help the community - community helps you. Win-win situation.
+
+To receive compensation for open-sourcing a tool that is useful for TON devs, you can write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
 
 ---
 
