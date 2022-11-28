@@ -16,7 +16,7 @@ And you can become one of us. Read about how to join below.
 
 ---
 
-<img align="right" width="300" src="imgs/how.png">
+<img align="right" width="300" src="imgs/why.png">
 
 
 ## What we do
