@@ -12,7 +12,7 @@ We are a group of TON enthusiasts who want to help the community to grow and thr
 Some of us are developers, some are researchers, some are just interested in the project. We are all united by the desire to make TON a success.
 
 And you can become one of us. Read about how to join below.  
-*It's easy!*
+*Finally, it's easy!*
 
 ---
 
@@ -23,13 +23,11 @@ And you can become one of us. Read about how to join below.
 
 Our solution is focused to make a life of every TON Developer easier. We build a TON Infrastructure layer. We are building a community-driven resource center for the TON blockchain. Documentation, tools, and more.
 
-For example - we maintain the official TON Documentation, which is available at [ton.org/docs](https://ton.org/docs).
-
-Also, we're taking care about other useful tools for developers such:
+Some examples:
+— TON Documentation, which is available at [ton.org/docs](https://ton.org/docs)
 - [VS Code extension](https://github.com/ton-community/vscode-func) for FunC language.
 - [TON Compiler](https://github.com/ton-community/ton-compiler) - Packaged Func compiler for TON smart contracts.
 - [FunC-js](https://github.com/ton-community/func-js) - Cross-platform bindings for TON FunC compiler.
-- find more [repositories](https://github.com/orgs/ton-community/repositories)
 
 ---
 
@@ -38,17 +36,16 @@ Also, we're taking care about other useful tools for developers such:
 ## Why it's so cool to join?
 
 __For contributors__
+
 If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
 
 To receive compensation, you can write a [TON Footstep](https://github.com/ton-society/ton-footsteps) or find an already placed one.
 
 __For tool builders__
 
-After your project becomes a part of the TON Community, you'll receive more support from open-source contributors. 
+After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
-In addition, here you can get help in creating such projects, that useful for the community. If you help the community - community helps you. Win-win situation.
-
-To receive compensation for open-sourcing a tool that is useful for TON devs, you can write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
+To receive compensation for open-sourcing a tool that is useful for TON devs, please write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
 
 ---
 
