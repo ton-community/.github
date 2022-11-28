@@ -3,7 +3,7 @@
 
 ---
 
-<img align="left" width="300" src="imgs/who.png">
+<img align="left" width="300" src="imgs/what.png">
 
 ## Who we are
 
@@ -16,7 +16,7 @@ And you can become one of us. Read about how to join below.
 
 ---
 
-<img align="right" width="300" src="imgs/what.png">
+<img align="right" width="300" src="imgs/how.png">
 
 
 ## What we do
@@ -31,7 +31,6 @@ Some examples:
 
 ---
 
-<img align="left" width="300" src="imgs/why.png">
 
 ## Why it's so cool to join?
 
@@ -48,8 +47,6 @@ After your project becomes a part of the TON Community, you'll receive more supp
 To receive compensation for open-sourcing a tool that is useful for TON devs, please write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
 
 ---
-
-<img align="right" width="300" src="imgs/how.png">
 
 ## How to join the open-source?
 
