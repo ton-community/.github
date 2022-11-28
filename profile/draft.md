@@ -21,7 +21,7 @@ And you can become one of us. Read about how to join below.
 
 ## What we do
 
-Our solution is focused to make a life of every TON Developer easier. We build a TON Infrastructure layer. We are building a community-driven resource center for the TON blockchain. Documentation, tools, and more.
+Our solution is focused to make life of TON Developer easier. We are building a community-driven center for the TON blockchain. SDK, tools, documentation and more.
 
 Some examples:
 — TON Documentation, which is available at [ton.org/docs](https://ton.org/docs)
