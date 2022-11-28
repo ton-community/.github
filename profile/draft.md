@@ -44,7 +44,7 @@ __For tool builders__
 
 After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
-To receive compensation for open-sourcing a tool that is useful for TON devs, please write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
+To receive compensation for open-sourcing a tool or smart-contract that is useful for TON devs, please write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
 
 ---
 
