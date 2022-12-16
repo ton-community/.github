@@ -70,5 +70,5 @@ __Want to get more contributors?__
 
 <h3 align="center">Projects looking for contributors:</h3>
 
-- [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?](https://ton.org/docs/contribute)
-— [Tact](https://github.com/ton-community/tact) — high-level language to write smart contracts on TON. Need help with documentation & materials!
+- [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?](https://ton.org/docs/contribute)  
+— [Tact](https://github.com/ton-community/tact) — high-level language to write smart contracts on TON. _Need help with documentation!_
