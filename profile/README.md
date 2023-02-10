@@ -1,5 +1,5 @@
-<h1 align="center">TON Community 💎</h1>
-<div align="center"><i>Home for community-driven projects and resources for the TON blockchain.</i></div>
+<h1 align="center">💎 TON Community</h1>
+<div align="center"><i>Home for community-driven projects and resources for TON Blockchain.</i></div>
 
 ---
 
@@ -26,9 +26,11 @@ Our solution is focused to make life of TON Developer easier. We are building a 
 Some examples:
 - TON Documentation, which is available at [ton.org/docs](https://ton.org/docs)
 - [VS Code extension](https://github.com/ton-community/vscode-func) for FunC language.
-- [TON js client](https://github.com/ton-community/ton) - Cross-platform client for TON blockchain.
-- [TON Compiler](https://github.com/ton-community/ton-compiler) - Packaged Func compiler for TON smart contracts.
-- [FunC-js](https://github.com/ton-community/func-js) - Cross-platform bindings for TON FunC compiler.
+- [ton.js client](https://github.com/ton-community/ton) - Cross-platform client for TON blockchain.
+- [blueprint](https://github.com/ton-community/blueprint) — A development environment for TON for writing, testing, and deploying smart contracts.
+- [sandbox](https://github.com/ton-community/sandbox) — package to test your TON smart contracts.
+- [ton-compiler](https://github.com/ton-community/ton-compiler) - Packaged Func compiler for TON smart contracts.
+- [func-js](https://github.com/ton-community/func-js) - Cross-platform bindings for TON FunC compiler.
 
 ---
 
@@ -45,7 +47,8 @@ __For tool builders__
 
 After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
-To receive compensation for open-sourcing a tool or smart-contract that is useful for TON devs, please write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
+To receive compensation for open-sourcing a tool or smart-contract that is useful for TON devs, please:
+- write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
 
 ---
 
@@ -58,17 +61,9 @@ Choose a project, fork the repo, make your changes, and submit a pull request.
 __Maybe you have created a tool that solves some problem?__
 
 Get more TON Developers by adding your tool to the:
-* [TON Documentation](https://github.com/ton-community/ton-docs)
-* [awesome-ton](https://github.com/ton-community/awesome-ton)
+* [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?]
+* [awesome-ton](https://github.com/ton-community/awesome-ton) — list of the most popular open-source projects on TON.
 
 __Want to get more contributors?__
 
-* And of course you can add a repository to the organization! Just contact us through the [Telegram group](https://t.me/ton_dev_community)
-
-
----
-
-<h3 align="center">Projects looking for contributors:</h3>
-
-- [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?](https://ton.org/docs/contribute)  
-- [Tact](https://github.com/ton-community/tact) — high-level language to write smart contracts on TON. _Need help with documentation!_
+* You can add a repository to the organization! Just contact us through the [Telegram group](https://t.me/ton_dev_community)
