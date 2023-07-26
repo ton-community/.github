@@ -24,7 +24,7 @@ And you can become one of us. Read about how to join below.
 Our solution is focused to make life of TON Developer easier. We are building a community-driven center for the TON blockchain. SDK, tools, documentation and more.
 
 Some examples:
-- TON Documentation, which is available at [ton.org/docs](https://ton.org/docs)
+- TON Documentation, which is available at [docs.ton.org](https://docs.ton.org/)
 - [VS Code extension](https://github.com/ton-community/vscode-func) for FunC language.
 - [ton.js client](https://github.com/ton-community/ton) - Cross-platform client for TON blockchain.
 - [blueprint](https://github.com/ton-community/blueprint) — A development environment for TON for writing, testing, and deploying smart contracts.
