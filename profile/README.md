@@ -41,14 +41,14 @@ __For contributors__
 
 If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
 
-To receive compensation, you can write a [TON Footstep](https://github.com/ton-society/ton-footsteps) or find an already placed one.
+To receive compensation, you can propose a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program) or [find](https://github.com/ton-society/grants-and-bounties/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee) an already placed one.
 
 __For tool builders__
 
 After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
 To receive compensation for open-sourcing a tool or smart-contract that is useful for TON devs, please:
-- write a [TON Footstep](https://github.com/ton-society/ton-footsteps).
+- write a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program).
 
 ---
 
