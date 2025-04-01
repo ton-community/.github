@@ -9,7 +9,7 @@
 
 We are a group of TON enthusiasts who want to help the community to grow and thrive. 
 
-Some of us are developers, some are researchers, some are just interested in the project. We are all united by the desire to make TON a success.
+Some of us are developers, some are researchers, and some are interested in the project. We are all united by the desire to make TON a success.
 
 And you can become one of us. Read about how to join below.  
 *Finally, it's easy!*
@@ -21,7 +21,7 @@ And you can become one of us. Read about how to join below.
 
 ## What we do
 
-Our solution is focused to make life of TON Developer easier. We are building a community-driven center for the TON blockchain. SDK, tools, documentation and more.
+Our solution is focused on making the life of the TON developer easier. We are building a community-driven center for the TON blockchain. SDK, tools, documentation, and more.
 
 Some examples:
 - TON Documentation, which is available at [docs.ton.org](https://docs.ton.org/)
@@ -35,11 +35,11 @@ Some examples:
 ---
 
 
-## Why it's so cool to join?
+## Why is it so cool to join?
 
 __For contributors__
 
-If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
+You can contribute to the projects or add your own if you are a developer. Also, we are looking for people who can help with documentation.
 
 To receive compensation, you can propose a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program) or [find](https://github.com/ton-society/grants-and-bounties/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee) an already placed one.
 
@@ -47,8 +47,8 @@ __For tool builders__
 
 After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
-To receive compensation for open-sourcing a tool or smart-contract that is useful for TON devs, please:
-- write a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program).
+To receive compensation for open-sourcing a tool or smart contract that is useful for TON devs, please:
+- Write a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program).
 
 ---
 
@@ -56,13 +56,14 @@ To receive compensation for open-sourcing a tool or smart-contract that is usefu
 
 __Want to contribute?__
 
-Choose a project, fork the repo, make your changes, and submit a pull request.
+Choose a project, fork the repo, make changes, and submit a pull request.
 
-__Maybe you have created a tool that solves some problem?__
+__Maybe you have created a tool that solves some problems.__
 
-Get more TON Developers by adding your tool to the:
-* [TON Documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?]
-* [awesome-ton](https://github.com/ton-community/awesome-ton) — list of the most popular open-source projects on TON.
+Get more TON developers by adding your tool to the:
+* [TON documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. 
+* [How to contribute?](https://docs.ton.org/v3/contribute)
+* [awesome-ton](https://github.com/ton-community/awesome-ton) — a list of TON's most popular open-source projects.
 
 __Want to get more contributors?__
 
