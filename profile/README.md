@@ -48,7 +48,7 @@ __For tool builders__
 After your project becomes a part of the TON Community, you'll receive more support from open-source contributors from the community.
 
 To receive compensation for open-sourcing a tool or smart contract that is useful for TON devs, please:
-- write a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program).
+- Write a [bounty task](https://github.com/ton-society/grants-and-bounties#bounties-program).
 
 ---
 
@@ -56,12 +56,13 @@ To receive compensation for open-sourcing a tool or smart contract that is usefu
 
 __Want to contribute?__
 
-Choose a project, fork the repo, make your changes, and submit a pull request.
+Choose a project, fork the repo, make changes, and submit a pull request.
 
 __Maybe you have created a tool that solves some problems.__
 
 Get more TON developers by adding your tool to the:
-* [TON documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. [How to contribute?]
+* [TON documentation](https://github.com/ton-community/ton-docs) — Essential instrument of every TON Developer. 
+* [How to contribute?](https://docs.ton.org/v3/contribute)
 * [awesome-ton](https://github.com/ton-community/awesome-ton) — a list of TON's most popular open-source projects.
 
 __Want to get more contributors?__
