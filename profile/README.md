@@ -25,12 +25,11 @@ Our solution is focused on making the life of the TON developer easier. We are b
 
 Some examples:
 - TON Documentation, which is available at [docs.ton.org](https://docs.ton.org/)
-- [VS Code extension](https://github.com/ton-community/vscode-func) for FunC language.
-- [ton.js client](https://github.com/ton-community/ton) - Cross-platform client for TON blockchain.
-- [blueprint](https://github.com/ton-community/blueprint) — A development environment for TON for writing, testing, and deploying smart contracts.
-- [sandbox](https://github.com/ton-community/sandbox) — package to test your TON smart contracts.
-- [ton-compiler](https://github.com/ton-community/ton-compiler) - Packaged Func compiler for TON smart contracts.
-- [func-js](https://github.com/ton-community/func-js) - Cross-platform bindings for TON FunC compiler.
+- [TON Developer](https://ton.org/dev) – an entry point for TON developers. Offers high-level guides, SDK overviews, API docs, Mini App tutorials, and integration standards like TON Connect.
+- [TON Developer Tools](https://github.com/ton-org) – a source code hub for TON tools and libraries. Includes SDKs, compilers, development environments like blueprint and sandbox, and TypeScript/JS bindings. 
+- [Blueprint](https://github.com/ton-community/blueprint) — a development environment for TON for writing, testing, and deploying smart contracts.
+- [Sandbox](https://github.com/ton-community/sandbox) — a package to test your TON smart contracts.
+- [TON IDE Plugins](https://docs.ton.org/v3/documentation/smart-contracts/getting-started/ide-plugins) – official plugins for popular code editors to enhance TON smart contract development.
 
 ---
 
